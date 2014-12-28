@@ -1,0 +1,13 @@
+/home/haha/mobbot/install/.catkin
+/home/haha/mobbot/install/_setup_util.py
+/home/haha/mobbot/install/env.sh
+/home/haha/mobbot/install/setup.bash
+/home/haha/mobbot/install/setup.sh
+/home/haha/mobbot/install/setup.zsh
+/home/haha/mobbot/install/.rosinstall
+/home/haha/mobbot/install/etc/catkin/profile.d/05.catkin_make.bash
+/home/haha/mobbot/install/etc/catkin/profile.d/05.catkin_make_isolated.bash
+/home/haha/mobbot/install/lib/pkgconfig/beginner_tutorials.pc
+/home/haha/mobbot/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/haha/mobbot/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/haha/mobbot/install/share/beginner_tutorials/package.xml
